@@ -8,7 +8,7 @@
   🌍 <strong>Location:</strong> Calicut, India <br>
   🖥️ <strong>Portfolio:</strong> <a href="#">[Insert your portfolio link here]</a><br>
   📫 <strong>Contact me:</strong> <a href="mailto:meghasunil82@gmail.com">meghasunil82@gmail.com</a><br>
-  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/megha-kv-377a89255/">[megha-kv]</a><br>
+  🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/megha-kv-377a89255/">megha-kv</a><br>
   📚 <strong>Currently learning:</strong> Expanding my skills with the latest tech stacks and development trends.
 </p>
 
