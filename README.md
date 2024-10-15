@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌍 I'm based in Calicut,India <br> 🖥️ See my portfolio at<br> 📫You can contact me at  <a href="mailto:meghasunil82@gmail.com">meghasunil82@gmail.com</a><br>📚 I'm learning all prerequisite<br>
+<p align="left"><b>.</b>🌍 I'm based in Calicut,India <br> 🖥️ See my portfolio at<br> 📫You can contact me at  <a href="mailto:meghasunil82@gmail.com">meghasunil82@gmail.com</a><br>📚 I'm learning all prerequisite<br>
 
 ###
 
