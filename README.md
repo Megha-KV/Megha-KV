@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">🌍 I'm based in Calicut,India ...<br> 🖥️ See my portfolio at...<br> ✉️ You can contact me at [meghasunil82@gmail.com](meghasunil82@gmail.com)...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
