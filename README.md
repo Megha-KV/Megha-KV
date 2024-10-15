@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">My name is Megha and I'm a software developer, from kozhikode.</p>
+<p align="left">My name is Megha and I'm a software developer.</p>
 
 ###
 
@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">🌍 I'm based in Calicut,India ...<br> 🖥️ See my portfolio at...<br> ✉️You can contact me at [meghasunil82@gmail.com](mailto:meghasunil82@gmail.com)
-...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">🌍 I'm based in Calicut,India ...<br> 🖥️ See my portfolio at...<br> 📫You can contact me at [meghasunil82@gmail.com](mailto:meghasunil82@gmail.com)...<br>📚 I'm learning all prerequisite...<br>
 
 ###
 
