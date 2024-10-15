@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">🌍 I'm based in Calicut,India ...<br> 🖥️ See my portfolio at...<br> 📫You can contact me at [meghasunil82@gmail.com](mailto:meghasunil82@gmail.com)...<br>📚 I'm learning all prerequisite...<br>
+<p align="left">🌍 I'm based in Calicut,India <br> 🖥️ See my portfolio at<br> 📫You can contact me at [meghasunil82@gmail.com](mailto:meghasunil82@gmail.com)<br>📚 I'm learning all prerequisite<br>
 
 ###
 
